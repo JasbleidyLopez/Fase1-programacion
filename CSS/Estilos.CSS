@@ -1,0 +1,44 @@
+head, aside, footer{
+    margin: auto;
+    text-align: justify;
+    color:  rgb(89, 160, 218);
+    font-family: tahoma, sans-serif;
+}
+h1{
+    text-align: center;
+    color: rgb(3, 84, 150);
+    background-color: rgb(124, 187, 238);
+    font-family: tahoma, sans-serif;
+}
+h2{
+    background-color: rgb(34, 115, 182);
+    color: white;
+    text-align: center;
+    font-family: tahoma, sans-serif;
+}
+h3{
+    background-color: rgb(124, 187, 238);
+    color:rgb(4, 3, 73);
+    text-align: center;
+    font-family: tahoma, sans-serif;
+    width: 600px;
+    margin: 20px auto;
+}
+table {
+    font-family: tahoma, sans-serif;
+    border-collapse: collapse;
+    margin: auto;
+    background-color: rgb(124, 187, 238);
+    width: 600px;
+  }
+  
+  td, th {
+    border: 2px solid rgb(0, 0, 0);
+    text-align: center;
+    padding: 10px;
+    color: rgb(4, 3, 73);
+  }
+  td{
+      text-align: left;
+  }
+
